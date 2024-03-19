@@ -2,12 +2,8 @@
 Game K is based on 2048 and, like 2048, is played on a 4x4 field. The only difference between these games is the fact that in K you will use letters instead of numbers on the playing board. The player can move these tiles in four directions.
 
 ## Screenshots
-<img src="./img/game.png" alt="game" width="200" height="200">
-<img src="./img/hof.png" alt="hof" width="200" height="200">
-<!---
 ![game](./img/game.png)
 ![hof](./img/hof.png)
--->
 
 ## How to use?
 ```bash
